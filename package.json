@@ -1,0 +1,13 @@
+{
+    "name": "@avantifellows/tiny",
+    "version": "1.0.0",
+    "description": "Test module to understand how to upload packages on npm",
+    "license": "MIT",
+    "repository": "avantifellows/tiny",
+    "main": "index.js",
+    "keywords": [
+        "tiny",
+        "npm",
+        "package"
+    ]
+}
